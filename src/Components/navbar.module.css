@@ -1,0 +1,10 @@
+.navbar{
+    margin: 0px auto;
+    text-align: center;
+    padding: 15px;
+    text-align: center;
+    color: rgb(224, 212, 212);
+    font-size: large;
+    font-weight: 200;
+    /* box-shadow: 0px 4px 6px rgba(0,0,0,0.2); */
+}
